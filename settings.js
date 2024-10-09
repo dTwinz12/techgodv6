@@ -11,14 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
+global.ownernomer = "2347019170750"
+global.ownername = "MR ANONYMOUS"
 global.ytname = "YT: SHADOW STARCORE"
 global.socialm = "GitHub: dark-tech-zone"
-global.location = "India, Delhi, city"
+global.location = "CANADA"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
+global.ownernumber = '2347019170750'  //creator number
+global.ownername = 'MR ANONYMOUS' //owner name
 global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -62,12 +62,12 @@ global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by premium user only',
     admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
+    botAdmin: 'This feature can only be used when MY OWNER  is a group admin ',
     owner: 'This feature can be used by owner only',
-    group: 'This feature is only for groups',
+    group: 'BABA REST This feature is only for groups',
     private: 'This feature is only for private chats',
     wait: 'In process... ',    
-    error: 'Error!',
+    error: 'OMO Error!',
 }
 
 global.thumb = fs.readFileSync('./XeonMedia/thumb.jpg')
